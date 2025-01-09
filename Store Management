@@ -72,3 +72,9 @@
                 hideLoading();
             }
         }
+
+// Initialize the app
+        showLogin();
+    </script>
+</body>
+</html>
