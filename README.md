@@ -75,3 +75,14 @@ important fields like name, email, etc.
 - Follow best practices at both the sides frontend and backend.
 - Best practices need to be followed on table schema design on the database
 side.
+
+
+
+![Screenshot 2025-01-09 145701](https://github.com/user-attachments/assets/ef46c632-8ff9-4cdf-8492-11b2bc6e85bf)
+![Screenshot 2025-01-09 145741](https://github.com/user-attachments/assets/f92996f3-f81a-4fc1-a5a2-272e372ade7d)
+![Screenshot 2025-01-09 145759](https://github.com/user-attachments/assets/17728ac0-2885-456a-9249-098c0ff78b9c)
+![image](https://github.com/user-attachments/assets/68a00f4b-b03c-442c-881b-25a917eb4d5b)
+
+
+
+
